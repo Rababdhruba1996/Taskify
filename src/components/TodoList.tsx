@@ -1,5 +1,5 @@
 import React from 'react';
-import './sytles.css';
+import './styles.css';
 import { Todo } from '../model';
 import SingleTodo from './SingleTodo';
 
